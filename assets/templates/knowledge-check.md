@@ -40,19 +40,3 @@
 | Distractor | Incorrect answer text | Incorrect answer feedback |
 | Distractor | Incorrect answer text | Incorrect answer feedback |
 | Distractor | Incorrect answer text | Incorrect answer feedback |
-
-## Collapsible Panels
-
-<details><summary>**Optional Additional Content**: Click here for more</summary>
-<p>
-Body of bonus/optional content lives here.
-</p>
-</details>
-
-```md
-<details><summary>**Optional Additional Content**: Click here for more</summary>
-<p>
-Body of bonus/optional content lives here.
-</p>
-</details>
-```
