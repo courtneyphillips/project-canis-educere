@@ -17,7 +17,7 @@ Upon completing this course, you will be able to:
 - Construct and execute a serverless function on Google Cloud Platform.
 - Identify potential use cases for serverless functions.
 - Explain the basic, high-level system design of a serverless setup.
-- Identify s
+- Write and execute code that triggers automatically based on events using Google Apps Script 
 
 ### Primary Audience
 
