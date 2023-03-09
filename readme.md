@@ -49,4 +49,4 @@ The following tools are used in this module. Outside of owning a Google account 
 * They are designed to be worked through in order, right here on GitHub.
 * At the end of each lesson you will find navigation links to access the next.
 
-# [➡️ CLICK HERE TO BEGIN ⬅️ ](./curriculum/1.0_intro_to_serverless_and_faas.md)
+# [➡️ CLICK HERE TO BEGIN ⬅️ ](./curriculum/0.1_intro_to_serverless_and_faas.md)
