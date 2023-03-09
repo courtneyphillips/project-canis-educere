@@ -51,10 +51,12 @@ The following tools and services are used in this tutorial. Learners will need a
 
 ### Navigating the Module
 
-Lessons are located in the `curriculum` directory.  Lessons can be worked through directly here on Github. At the end of each page, you'll find a navigational link to the next lesson. You can traverse the entire module this way.
+* Lessons are located in the [`curriculum` directory](./curriculum) of this repository.  
+* Lessons are designed to be worked through right here on GitHub.
+* At the end of each lesson a Markdown navigational link will take you to the next.
 
 ## Ready to get Started?!
 
 Access the first lesson, []() to get started. The end of each lesson will provide links to travel to the next lesson in the series.
 
-### [Begin the Module Now!](./curriculum/1.0_intro_to_serverless_and_faas.md) 
+## [Begin the Module Now!](./curriculum/1.0_intro_to_serverless_and_faas.md) 
