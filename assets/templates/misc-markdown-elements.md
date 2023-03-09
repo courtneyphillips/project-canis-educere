@@ -16,7 +16,7 @@ Body of bonus/optional content lives here.
 
 ## Navigation
 
-| ⬅️  Back — | — 🏠 Home — | — Next  ➡️ |
+| [⬅️  Back —]() | [— 🏠 Home —](https://github.com/courtneyphillips/project-canis-educere) | [— Next  ➡️]() |
 | --- | --- | --- |
 
 ## Images with Mouseover & Screen Reader getContentText
