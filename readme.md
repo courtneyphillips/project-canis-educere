@@ -4,13 +4,9 @@ March 2023
 
 ### Topic
 
-This brief learning module will provide a quick, hands-on introduction to Serverless programming and systems design using Google Cloud Platform.
+This brief learning module will provide a hands-on introduction to Serverless programming using Google Cloud Functions.
 
-The first half of the module will walk through the terminology, concepts, trends, and concepts necessary to understand serverless systems in context.
-
-After discussing the basics, the second half of this lesson will offer a hands-on tutorial for writing and executing a serverless function in Google Cloud Platform.
-
-Finally, we'll wrap up by discussing , and recommending additional resources and next steps for learners who wish to continue their serverless journey.
+After a brief introduction to serverless terminology and contexdt, we'll begin creating .
 
 ### Audience
 
@@ -46,7 +42,7 @@ After completing this module, learners will be able to:
 
 ### Tools and Services  
 
-Lessons in this module will walk through accessing and using the following tools. Instructions and resources for each will be provided when they appear in the module:    
+The following tools and services are used in this tutorial. Learners will need a Google account and email address. No other pre-emptive setup is required. lessons will walk through accessing and configuring each as they're required:   
 
 - Google Suite: Used to create and operate Forms, Spreadsheets, and basic Apps Script.
 - Google Cloud Platform: Specific focus on Cloud Functions, and Secrets Manager.
@@ -55,8 +51,10 @@ Lessons in this module will walk through accessing and using the following tools
 
 ### Navigating the Module
 
-- Lessons are located in the `curriculum` directory.  Lessons can be worked through directly here on Github. At the end of each page, you'll find a navigational link to the next lesson. You can traverse the entire module this way.
+Lessons are located in the `curriculum` directory.  Lessons can be worked through directly here on Github. At the end of each page, you'll find a navigational link to the next lesson. You can traverse the entire module this way.
 
 ## Ready to get Started?!
 
 Access the first lesson, []() to get started. The end of each lesson will provide links to travel to the next lesson in the series.
+
+### [Begin the Module Now!](./curriculum/1.0_intro_to_serverless_and_faas.md) 
